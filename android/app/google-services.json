@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957322179217",
+    "project_id": "madaris-81aee",
+    "storage_bucket": "madaris-81aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957322179217:android:f7cc32bb7a7d708a244530",
+        "android_client_info": {
+          "package_name": "com.example.madaris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957322179217-fpfjdfkcdi0kgun27dpnmdh02do9nmpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLQ2ZIC2tLytW2XOXYI5n0rqqkZyquoEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957322179217-fpfjdfkcdi0kgun27dpnmdh02do9nmpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
